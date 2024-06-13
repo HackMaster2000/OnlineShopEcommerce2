@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OnlineShopEcommerce</string>
+    <string name="introText">¡Revelando un mundo de productos de <font color="#169955">Belleza y Cosmética</font>!</string>
+    <string name="introSubtittle">Explore los últimos estilos de las mejores marcas \n Obtenga recomendaciones personalizadas \n ¡Disfrute de un envío rápido y gratuito</string>
+    <string name="buttomInitial">¡Empecemos!</string>
+    <string name="textWelcome">Bienvenido de nuevo</string>
+    <string name="userName">Josue Moises</string>
+    <string name="frase01">Ver todo</string>
+    <string name="categories">Categorias</string>
+    <string name="recomendation">Recomendaciones</string>
+    <string name="explore">Explorar</string>
+    <string name="carrito">Carrito</string>
+    <string name="wishlist">Favoritos</string>
+    <string name="orders">Mis pedidos</string>
+    <string name="profile">Perfil</string>
+</resources>

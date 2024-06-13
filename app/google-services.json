@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732227850816",
+    "project_id": "onlineshopecommerce-dd6fc",
+    "storage_bucket": "onlineshopecommerce-dd6fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732227850816:android:538a257ce3d890bd2dc5a5",
+        "android_client_info": {
+          "package_name": "com.tecsup.onlineshopecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRUdE67QVgIUDMCcnrSCMvKs7ZcYG3AqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
